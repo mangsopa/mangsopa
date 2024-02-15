@@ -24,16 +24,6 @@ class About extends Me
         ];
     }
 
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Freelancer',
-                'position' => 'Web Development',         
-            ]
-        ];
-    }
-
     public function getDailyKnowledge(): array
     {
         return [
