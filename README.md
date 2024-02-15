@@ -4,7 +4,11 @@
 
 ## Hey! 👋
 
-I'm Sofa, a young person who likes doing things behind the scenes and learning new things .
+I'm Sofa, a young person who likes doing things behind the scenes and learning new things.
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-sofa-104003252/)](https://www.linkedin.com/in/ahmad-sofa-104003252/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mangsopa)
+
                                              
 ```php
 <?php
