@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mangsopa/mangsopa/main/name.svg" alt="Sofa Ramadhan" />
+  <img src="https://raw.githubusercontent.com/mangsopa/mangsopa/main/name.svg" alt="Mang Sopa" />
 </h1>
 
 ## Hey! 👋
