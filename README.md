@@ -3,26 +3,30 @@
 </h1>
 
 ## Hey! 👋
-I'm Sofa Ramadhan, a 22 years old web developer from Hungary.
+I'm Sofa, a young person who likes doing things behind the scenes and learning new things .
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🦔 Currently I am a freelancer
+- From Indonesia
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
++ a lot more 😊
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- 👨‍💻 PHP, Dart, JavaScript, C++ etc...
 - ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
+- 👁️ SASS, CSS, UI/UX
 - 💽 MySQL, SQL, Mongo
-+ a lot more :D
++ a lot more 😁
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+<div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:sofa.ramadhan168@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
+
+## Github Stats
+
+| <h3>ComingSoon</h3>| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangsopa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
