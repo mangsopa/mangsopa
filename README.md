@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/mangsopa/mangsopa/0b3ad9a12a4eb70aace972e5427e3644e5ca086c/name.svg" alt="Mang Sopa" />
-</h1>
+// <h1 align="center">
+//  <img src="https://raw.githubusercontent.com/mangsopa/mangsopa/0b3ad9a12a4eb70aace972e5427e3644e5ca086c/name.svg" alt="Mang Sopa" />
+// </h1>
 
 ## Hey! 👋
 
