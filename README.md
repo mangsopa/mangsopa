@@ -1,10 +1,6 @@
-// <h1 align="center">
-//  <img src="https://raw.githubusercontent.com/mangsopa/mangsopa/0b3ad9a12a4eb70aace972e5427e3644e5ca086c/name.svg" alt="Mang Sopa" />
-// </h1>
+## Hi!👋I'm Sofa
 
-## Hey! 👋
-
-I'm Sofa, a young person who likes doing things behind the scenes and learning new things.
+A young person who likes doing things behind the scenes and learning new things. create and share projects about web and mobile technology! 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/sofaramadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsofa/)](https://www.linkedin.com/in/ahmadsofa)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mangsopa)
