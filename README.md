@@ -13,7 +13,7 @@ namespace AshSofa;
 
 class About extends Me
 {
-    function __about(Request $request)
+    function __about()
     {
         $itsMe = Me::where('name', 'Sofa Ramadhan')
            ->where('country', 'Indonesia')
