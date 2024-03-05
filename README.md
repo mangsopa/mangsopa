@@ -49,17 +49,13 @@ class About extends Me
 }
 ```
 
-- 💬 Ask me about anything [here](https://github.com/mangsopa/mangsopa/issues)
-
-## Skills
+## Tech Stack
 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-+ a lot more 😁
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -79,29 +75,7 @@ class About extends Me
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mangsopa/Api_Laravel_Authentikasi" title="Laravel Authentikasi API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=Api_Laravel_Authentikasi&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mangsopa/AppsAirplane" title="Aur Plane"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=AppsAirplane&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mangsopa/Crud_Rest_Api_CI4" title="Rest Api CI4"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=Crud_Rest_Api_CI4&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mangsopa/landing-pages-ecommerce" title="Landing Page E-Commerce"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=landing-pages-ecommerce&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mangsopa/Laravel_CrudxAjax" title="Laravel CrudxAjax"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=Laravel_CrudxAjax&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mangsopa/DoctorApp" title="Doctor App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mangsopa&repo=DoctorApp&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/mangsopa?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
-## Contact
+## Reach me on
 <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/ahmad-sofa-104003252"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
