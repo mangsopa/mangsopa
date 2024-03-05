@@ -13,20 +13,20 @@ namespace AshSofa;
 
 class About extends Me
 {
-    public function __about()
+    function __about(Request $request)
     {
-        $user = Me::orderBy('name')->orderBy('country')->get();
-        return [
-            [
-                'name' => 'Sofa Ramadhan',
-                'country' => 'Indonesia',
-            ]
-        ];
+        $itsMe = Me::where('name', 'Sofa Ramadhan')
+           ->where('country', 'Indonesia')
+           ->orderBy('name')
+           ->orderBy('country')
+           ->get();
+
+        return view('welcome', compact('itsMe'));
     }
 
-    public function getDailyKnowledge(): array
+    function getDailyKnowledge()
     {
-        return [
+        $Knowledge = [
             Php::class,
             Javascript::class,
             Laravel::class,
@@ -36,9 +36,9 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal(): string
+    function getFutureGoal()
     {
-        return 'To contribute to open source.';
+        echo "To contribute to open source.";
     }
 }
 ```
