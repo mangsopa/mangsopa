@@ -31,10 +31,8 @@ class About extends Me
             Javascript::class,
             Laravel::class,
             CodeIgniter::class,
-            React::class,
-            Dart::class,
             ReactNative::class,
-            TailwindCss::class,
+            Dart::class,
         ];
     }
 
