@@ -28,6 +28,7 @@ class About extends Me
     {
         $Knowledge = [
             Laravel::class,
+            JavaScript::class,
             CodeIgniter::class,
             Dart::class,
         ];
