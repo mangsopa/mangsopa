@@ -27,11 +27,8 @@ class About extends Me
     function getDailyKnowledge()
     {
         $Knowledge = [
-            Php::class,
-            Javascript::class,
             Laravel::class,
             CodeIgniter::class,
-            ReactNative::class,
             Dart::class,
         ];
     }
