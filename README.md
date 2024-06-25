@@ -1,12 +1,9 @@
-## Hi!👋I'm Sofa
+## Hi!👋 My Name is Sofa
 
 A young person who likes doing things behind the scenes and learning new things. create and share projects about web and mobile technology! 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/sofaramadhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsofa/)](https://www.linkedin.com/in/ahmadsofa)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/mangsopa)
-
-                                             
 ```php
+
 <?php
 
 namespace AshSofa;
@@ -41,38 +38,62 @@ class About extends Me
 }
 ```
 
-## Tech Stack
-
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=mangsopa&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangsopa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangsopa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mangsopa&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangsopa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="130" alt="languages graph"  />
+</div>
+<br>
+
+## Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="webpack logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+</div>
 
 <hr>
 
 ## Reach me on
-<div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/ahmad-sofa-104003252"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:whoamiii336@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
+
+<div align="center">
+  <a href="https://www.instagram.com/faaa_fs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
+    <a href="https://discord.com/channels/@owesofa" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
+  </a>
+
+  <a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=sofa.ramadhan168@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmadsofa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sofa_ramadhan168" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.facebook.com/sofarafs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"  />
+  </a>
 </div>
 
 
