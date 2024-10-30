@@ -12,7 +12,7 @@ class About extends Me
 {
     function __about()
     {
-        $itsMe = Me::where('name', 'Sofa Ramadhan')
+        $itsMe = Me::where('name', 'Mangsopa')
            ->where('country', 'Indonesia')
            ->orderBy('name')
            ->orderBy('country')
