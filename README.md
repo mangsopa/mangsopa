@@ -69,9 +69,9 @@ class About extends Me
   <img width="17" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" title="php" />
     <img width="17" />
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="25" alt="tailwindcss logo" title="laravel"  />
+    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="35" alt="tailwindcss logo" title="laravel"  />
     <img width="17" />
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="25" alt="tailwindcss logo" title="code igniter"  />
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="35" alt="tailwindcss logo" title="code igniter"  />
     <img width="17" />
 </div>
 
