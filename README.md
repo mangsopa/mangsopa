@@ -68,6 +68,8 @@ class About extends Me
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML" />
   <img width="17" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" title="php" widht="17" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg" height="35" alt="tailwindcss logo" title="laravel"  />
+  <img width="17" />
 </div>
 
 <hr>
