@@ -103,4 +103,10 @@ class About extends Me
   </a>
 </div>
 
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangsopa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangsopa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
