@@ -47,7 +47,7 @@ class About extends Me
 </div>
 <br>
 
-## 🌟 My Skills
+<h2 align="center"> 🌟 My Skills </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="javascript" />
   <img width="17" />
