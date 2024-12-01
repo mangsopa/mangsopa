@@ -13,10 +13,10 @@ class About extends Me
     function __about()
     {
         $itsMe = Me::where('name', 'Mangsopa')
-           ->where('country', 'Indonesia')
-           ->orderBy('name')
-           ->orderBy('country')
-           ->get();
+                   ->where('country', 'Indonesia')
+                   ->orderBy('name', 'asc')
+                   ->orderBy('country', 'desc')
+                   ->get();
 
         return view('welcome', compact('itsMe'));
     }
