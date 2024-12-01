@@ -67,7 +67,7 @@ class About extends Me
 
 <hr>
 
-## Reach me on
+<!-- ## Reach me on
 
 <div align="center">
   <a href="https://www.instagram.com/faaa_fs" target="_blank">
