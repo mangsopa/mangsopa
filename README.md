@@ -65,8 +65,6 @@ class About extends Me
     <img width="17" />
 </div>
 
-<hr>
-
 <!-- ## Reach me on
 
 <div align="center">
