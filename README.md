@@ -51,22 +51,10 @@ class About extends Me
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="javascript" />
   <img width="17" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="17" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React Native"  />
   <img width="17" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" title />
-  <img width="17" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
-  <img width="17" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
-  <img width="17" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" title="tailwinds"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" title="tailwinds"  />
   <img width="17" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="35" alt="webpack logo"  />
-  <img width="17" /> -->
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" title="HTML" />
-  <img width="17" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" title="php" />
     <img width="17" />
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="35" alt="laravel logo" title="laravel"  />
@@ -103,8 +91,8 @@ class About extends Me
   </a>
 </div>
 
-## 📊 GitHub Stats & Streak
-<p align="center">
+<!-- ## 📊 GitHub Stats & Streak
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangsopa&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangsopa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
