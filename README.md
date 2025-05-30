@@ -26,8 +26,7 @@ class About extends Me
         $Knowledge = [
             Laravel::class,
             CodeIgniter::class,
-            JavaScript::class,
-            Dart::class,
+            JavaScript::class
         ];
     }
 
@@ -49,20 +48,21 @@ class About extends Me
 
 <h2 align="center"> 🌟 My Skills </h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" title="javascript" />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" title="React Native"  />
-  <img width="17" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo" title="tailwinds"  />
-  <img width="17" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" title="php" />
-    <img width="17" />
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="35" alt="laravel logo" title="laravel"  />
-    <img width="17" />
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="35" alt="code igniter logo" title="code igniter"  />
-    <img width="17" />
-    <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" height="35" alt="flutter logo" title="flutter"  />
-    <img width="17" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="javascript" />
+      <img width="17" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React Native"  />
+      <img width="17" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo" title="tailwinds"  />
+      <img width="17" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo" title="php" />
+      <img width="17" />
+      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="60" alt="laravel logo" title="laravel"  />
+      <img width="17" />
+      <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="60" alt="code igniter logo" title="code igniter"  />
+      <img width="17" />
+     <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="60" alt="express js logo" title="express js"  />
+      <img width="17" />
+   
 </div>
 
 <!-- ## Reach me on
