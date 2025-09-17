@@ -26,7 +26,11 @@ class About extends Me
         $Knowledge = [
             Laravel::class,
             CodeIgniter::class,
-            JavaScript::class
+        ];
+
+       $ProgressLearn = [
+            Express::class,
+            ReactNative::class,
         ];
     }
 
@@ -37,18 +41,28 @@ class About extends Me
 }
 ```
 
+<h2 align="center"> 🌟 Social Media </h2>
+
+<div align="center">
+
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ahmadsofa/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/dhxnyuzer/)
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mangsopa&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="130" alt="streak graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangsopa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="130" alt="languages graph"  />
+
+![Top Langs](https://github-readme-stats-sand-two-87.vercel.app/api/top-langs/?username=mangsopa&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sand-two-87.vercel.app/api?username=mangsopa&show_icons=true&theme=tokyonight&count_private=true)
+
 </div>
 <br>
 
 <h2 align="center"> 🌟 My Skills </h2>
 <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="javascript" />
+<!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="javascript" />
       <img width="17" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React Native"  />
       <img width="17" />
@@ -61,7 +75,16 @@ class About extends Me
       <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" height="60" alt="code igniter logo" title="code igniter"  />
       <img width="17" />
      <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="60" alt="express js logo" title="express js"  />
-      <img width="17" />
+      <img width="17" /> -->
+
+
+![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
    
 </div>
 
