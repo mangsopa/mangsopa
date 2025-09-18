@@ -58,7 +58,6 @@ class About extends Me
 ![GitHub stats](https://github-readme-stats-sand-two-87.vercel.app/api?username=mangsopa&show_icons=true&theme=tokyonight&count_private=true)
 
 </div>
-<br>
 
 <h2 align="center"> 🌟 My Skills </h2>
 <div align="center">
