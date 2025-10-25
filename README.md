@@ -57,9 +57,16 @@ class About extends Me
 </div>
 
 <h2 align="center">📊 Github Statistics </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=mangsopa&theme=react&show_icons=true&hide_border=false" alt="GitHub Stats" align="left" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mangsopa&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" align="right" />
-<br clear="both" />
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="left" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=mangsopa&theme=react&show_icons=true&hide_border=false" alt="GitHub Stats" />
+    </td>
+    <td align="right" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=mangsopa&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <!-- <h2 align="center"> 🌟 My Skills </h2>
