@@ -1,6 +1,6 @@
-## Hi!👋 My Name is Sofa
-
-A young person who likes doing things behind the scenes and learning new things. create and share projects about web and mobile technology! 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A7AEF,100:151B23&text-align=center&height=150&text=Hi%20👋%20My%20Name%20Sofa&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descSize=27&descAlignY=85&section=header" alt="Hi My Name Sofa" />
+</div>
 
 ```php
 
@@ -41,26 +41,29 @@ class About extends Me
 }
 ```
 
-<h2 align="center"> 🌟 Social Media </h2>
 
+<h2 align="center">🧠 Skills </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,react,js,html,css,postgres,mysql,postman,nginx,linux&theme=light" />
+  </a>
+</p>
+
+<h2 align="center"> 📬 Connect with me </h2>
 <div align="center">
-
+    
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ahmadsofa/)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/dhxnyuzer/)
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Github Statistics </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=mangsopa&theme=react&show_icons=true&hide_border=false" alt="GitHub Stats" align="left" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mangsopa&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" align="right" />
+<br clear="both" />
 <br>
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats-sand-two-87.vercel.app/api/top-langs/?username=mangsopa&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats-sand-two-87.vercel.app/api?username=mangsopa&show_icons=true&theme=tokyonight&count_private=true)
-
-</div>
-
-<h2 align="center"> 🌟 My Skills </h2>
-<div align="center">
+<!-- <h2 align="center"> 🌟 My Skills </h2>
+<div align="center"> -->
 <!--       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" title="javascript" />
       <img width="17" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" title="React Native"  />
@@ -76,16 +79,16 @@ class About extends Me
      <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height="60" alt="express js logo" title="express js"  />
       <img width="17" /> -->
 
+<!-- 
+    ![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+    ![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+    ![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+    ![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
 
-![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
-![React Native](https://img.shields.io/badge/-react_native-blue?style=for-the-badge)
-
-![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
-   
-</div>
+    ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+    ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+    -->
+<!-- </div> -->
 
 <!-- ## Reach me on
 
@@ -110,11 +113,3 @@ class About extends Me
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="facebook logo"  />
   </a>
 </div>
-
-<!-- ## 📊 GitHub Stats & Streak
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangsopa&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangsopa&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
