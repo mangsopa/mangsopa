@@ -60,10 +60,10 @@ class About extends Me
 <div align="center">
     
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ahmadsofa/)
-[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/dhxnyuzer/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/sofarsomeone/)
 </div>
 
-<h2 align="center">📊 Github Statistics </h2>
+<!-- <h2 align="center">📊 Github Statistics </h2>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="left" valign="middle">
@@ -74,7 +74,7 @@ class About extends Me
     </td>
   </tr>
 </table>
-<br>
+<br> -->
 
 <!-- <h2 align="center"> 🌟 My Skills </h2>
 <div align="center"> -->
